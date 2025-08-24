@@ -31,12 +31,13 @@ Ah! Got it ✅ you want a **short practical “how to run” section** for reade
 4. Run the classifier:
 
    ```bash
-   python logistic_svm.py
+   python logstic_svm.py
    ```
 5. Check the console output for **accuracy, confusion matrix, and classification reports**.
 
 ## Results
 
 Both models gave around **96% accuracy**, showing they perform well on this dataset.
+
 
 
