@@ -18,7 +18,7 @@ Ah! Got it ✅ you want a **short practical “how to run” section** for reade
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yab-g4u/classifier.git
+   git clone https://github.com/yab-g4u/Breast-Cancer-Classifier.git
    cd classifier
 
 2. Install dependencies:
@@ -38,6 +38,7 @@ Ah! Got it ✅ you want a **short practical “how to run” section** for reade
 ## Results
 
 Both models gave around **96% accuracy**, showing they perform well on this dataset.
+
 
 
 
